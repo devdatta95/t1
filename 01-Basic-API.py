@@ -14,6 +14,8 @@ import joblib
 # STEP 7: Run 01-Basic-API.py to launch server and confirm the site is running
 # Step 8: Run API request
 
+print()
+
 ### IMP NOTES
 # Set localhost = '0.0.0.0' and port = 8080 in 01-Basic-API.py 
 # To accept the request from other client over a wifi Connection 
