@@ -13,7 +13,7 @@ app = Flask(__name__)
 # We will later learn much better ways to do this!!
 app.config['SECRET_KEY'] = 'mysecretkey'
 
-
+print()
 # Now create a WTForm Class
 # Lots of fields available:
 # http://wtforms.readthedocs.io/en/stable/fields.html
